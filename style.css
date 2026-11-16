@@ -1,0 +1,32 @@
+.header{
+    color: rgb(242, 177, 209); 
+    font-family: "Pinyon Script", cursive;
+
+
+}
+
+.credits{
+    color:aliceblue;
+    font-family: Cambria;
+    font-size: 10px;
+    padding-left: 20px;
+
+
+}
+
+.regularText{
+    color:azure;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-left: 20px;
+
+
+}
+
+/* .navbar{
+    min-height: 75px;
+    padding-block: 1rem;
+    background-size: cover;
+    background-position: center;
+} */
